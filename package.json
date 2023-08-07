@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "cross-env test.var=aaa node test.js"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  }
+}
